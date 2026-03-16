@@ -1,7 +1,11 @@
 # 🛒 OTS: Multi-Vertical E-commerce Performance Analysis
 
-![Dashboard Preview](./OTS Dashboard preview.PNG)
+![Dashboard Preview](Dashboard/OTS_Dashboard_preview.png)
 
+## 🛠️ Tech Stack
+[![SQL Server](https://img.shields.io/badge/SQL_Server-2019+-red?style=flat&logo=microsoft-sql-server&logoColor=white)](./SQL_Scripts/OTS_ORDER.sql)
+[![Power BI](https://img.shields.io/badge/Power_BI-Desktop-yellow?style=flat&logo=power-bi&logoColor=black)](./Dashboard/OTS_sale.pbix)
+[![Excel](https://img.shields.io/badge/Excel-Dataset-green?style=flat&logo=microsoft-excel&logoColor=white)](./Dataset/Sales%20Dataset(app).csv)
 ## 📌 Project Overview
 This project simulates a comprehensive Business Intelligence workflow for **OTS*, a Nigerian "Super-App." The analysis focuses on operational efficiency, revenue realization, and customer behavior across Food, Rides, Logistics, and Grocery sectors.
 
