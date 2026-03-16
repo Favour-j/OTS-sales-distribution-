@@ -50,5 +50,3 @@ I developed several custom DAX measures to drive business insights:
 
 ---
 
-## 📬 Contact
-**[Your Name]** [LinkedIn Profile Link] | [Portfolio Link]
