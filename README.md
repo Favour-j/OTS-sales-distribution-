@@ -1,6 +1,6 @@
 # 🛒 OTS: Multi-Vertical E-commerce Performance Analysis
 
-![Dashboard Preview](./OTS_Dashboard_preview.PNG)
+![Dashboard Preview](Dashboard/dashboard_preview.png)
 
 ## 🛠️ Tech Stack
 [![SQL Server](https://img.shields.io/badge/SQL_Server-2019+-red?style=flat&logo=microsoft-sql-server&logoColor=white)](./SQL_Scripts/OTS_ORDER.sql)
