@@ -1,6 +1,6 @@
 # 🛒 OTS: Multi-Vertical E-commerce Performance Analysis
 
-![Dashboard Preview](./OTS_Dashboard_preview.PNG)
+![Dashboard Preview](./OTS Dashboard preview.PNG)
 
 ## 📌 Project Overview
 This project simulates a comprehensive Business Intelligence workflow for **OTS*, a Nigerian "Super-App." The analysis focuses on operational efficiency, revenue realization, and customer behavior across Food, Rides, Logistics, and Grocery sectors.
